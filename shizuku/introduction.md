@@ -1,3 +1,7 @@
+![1000002136](https://github.com/user-attachments/assets/4157cfb5-8022-4ad8-a423-faa395d44088)
+<img width="866" height="866" alt="1000002051" src="https://github.com/user-attachments/assets/0928be44-5917-42b7-b532-3e4a8d0f5a8d" />
+<img width="240" height="240" alt="1000002125" src="https://github.com/user-attachments/assets/381ed081-5cfb-4b53-bf52-060da52b2b7b" />
+<img width="240" height="240" alt="1000002125" src="https://github.com/user-attachments/assets/f71c2776-80bc-4f5e-9cb8-4de0e75debf7" />
 # Introduction
 
 Shizuku can help normal apps uses system APIs directly with adb/root privileges with a Java process started with app_process.
@@ -19,7 +23,8 @@ For example, to enable/disable components, some apps that require root privilege
 
 1. Execute `su`
 2. Execute `pm disable`
-3. (pre-Pie) Start the Java process with app_process ([see here](https://android.googlesource.com/platform/frameworks/base/+/oreo-release/cmds/pm/pm))
+3. (pre-Pie) Start the Java process with app_process ([see here](https://android<img width="1000" height="1000" alt="1000002059" src="https://github.com/user-attachments/assets/d839e36f-e8b2-40b4-bf5e-886e0e35e4c6" />
+.googlesource.com/platform/frameworks/base/+/oreo-release/cmds/pm/pm))
 4. (Pie+) Execute the native program `cmd` ([see here](https://android.googlesource.com/platform/frameworks/native/+/pie-release/cmds/cmd/))
 5. Process the parameters, interact with the system server through the binder, and process the result to output the text result.
 
@@ -42,4 +47,6 @@ The Shizuku app will direct the user to run a process (Shizuku service process) 
 The advantages of Shizuku are:
 
 1. Minimal extra time and performance consumption
-2. It is almost identical to the direct invocation API experience (app developers only need to add a small amount of code)
+2. It is almost identical to the direct invocation API experience (app developers only need to add a smallG8 PANAL
+3.
+4.   amount of code) please 
